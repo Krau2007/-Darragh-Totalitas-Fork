@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40de45a377cdd92a095c29c792af58ee, type: 3}
+  m_Name: MazePreset02
+  m_EditorClassIdentifier: Assembly-CSharp::MazePreset
+  presetId: preset_02
+  displayName: preset 02
+  previewImage: {fileID: 21300000, guid: f2320d4ee12c79052b001f49affafbc1, type: 3}
+  mazePrefab: {fileID: 7448469251884007589, guid: 1f963ad29b1801fa9bf335c43c3529ea, type: 3}
